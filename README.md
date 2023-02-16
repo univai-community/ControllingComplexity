@@ -1,4 +1,4 @@
-# Overfitting and Regularization: Basic Concepts of Machine Learning
+# Controlling Complexity: Overfitting and Regularization: Basic Concepts of Machine Learning
 
 This workshop has 2 aims. It (a)aims to introduce the basic concepts of machine learning and (b)utilize these concepts in choosing a machine learning model.
 
