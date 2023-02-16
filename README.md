@@ -6,10 +6,8 @@ The basic problem with models that are too complex in machine earning is that th
 
 In both these approaches, there are hyper-parameters whose values must be set. And these values are determined on sets called validation sets, while the fitting is done on the training set, for reasons we shall see.
 
-Workshop: [![Open Workshop In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/univai-community/ControllingComplexity
-/blob/main/basic_concepts.ipynb)
+Workshop: [![Open Workshop In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/univai-community/ControllingComplexity/blob/main/basic_concepts.ipynb)
 
 Finally, a homework problem on classification with Logistic Regression and k-Nearest Neighbors will help cement your understanding.
 
-Homework: [![Open Homework In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/univai-ghf/ControllingComplexity
-/blob/main/homework_knnClassification.ipynb)
+Homework: [![Open Homework In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/univai-ghf/ControllingComplexity/blob/main/homework_knnClassification.ipynb)
